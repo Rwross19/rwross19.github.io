@@ -13,7 +13,9 @@
 
 Here are a couple projects that I have completed this semester:
 
-
+- [Copy](https://github.com/Rwross19/rwross19.github.io/tree/main/Copy) : Copies a file to a destination bit by bit.
+- [SplitFile](https://github.com/Rwross19/rwross19.github.io/tree/main/SplitFile) : Splits a file into a specified number of files.
+- [ObjectIO](https://github.com/Rwross19/rwross19.github.io/tree/main/ObjectIO) : Tests the input and output of classes in Java.
 
 ### LinkedIn
 
